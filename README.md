@@ -1,3 +1,7 @@
+# WML Symlink Example
+
+This is example of [wml-symlink](https://github.com/Jekiwijaya/wml-symlink)
+
 ## Installation
 
 ```
