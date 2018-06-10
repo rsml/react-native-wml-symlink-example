@@ -1,0 +1,14 @@
+{
+  "name": "wml-symlink-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Jekiwijaya/react-native-wml-symlink-example.git",
+  "author": "Jacky Wijaya <jekiwijaya@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "devDependencies": {
+    "lerna": "^2.11.0"
+  }
+}
